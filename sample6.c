@@ -1,3 +1,4 @@
+//Displaying arrays
 #include <stdio.h>
 int main(){
 int a[4] = {20,35,50,80};
